@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+main{
+    padding-top: 10%;
+    padding-left: 30%;
+    max-width: 70%;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    margin-right: 4px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
